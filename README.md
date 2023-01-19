@@ -70,4 +70,7 @@ namespace PlayGround
             
         }
     }
-}
+    }
+    
+    ![alt text](https://github.com/[csehammad]/[GPT3Wrapper]/blob/[master]/sample.png?raw=true)
+
