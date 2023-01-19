@@ -7,7 +7,7 @@ Open AI API Wrapper for .NET 7
   "OPENAPI_KEY": "OPEN_API_KEY_GOES_HERE",
 ##
 You also need to define below parameters for different language models and their settings. 
-
+```json
   "OpenAICompletion": {
     "Chat": {
       "Model": "text-davinci-003",
@@ -35,7 +35,7 @@ You also need to define below parameters for different language models and their
     }
    }
   
-
+```
 # Consuming Library from the  Console App
 
 namespace PlayGround
