@@ -1,5 +1,5 @@
 # GPT3Wrapper
-Open AI API Wrapper for .NET 7 
+Open AI API Wrapper for .NET 7 (Generated using GPT3)
 
 
 ## Add appsettings.json 
