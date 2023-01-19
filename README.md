@@ -37,16 +37,16 @@ You also need to define below parameters for different language models and their
   
 ```
 # Consuming Library from the  Console App
-
+ ```
 namespace PlayGround
 {
-    internal class Program
+  internal class Program
     {
-        private static async Task Main(string[] args)
+      private static async Task Main(string[] args)
         {
-           //Load your appsettings.json 
+            //Load your appsettings.json 
             var builder = new ConfigurationBuilder().SetBasePath(Directory.GetCurrentDirectory()).AddJsonFile("appsettings.json");
-
+            
             // Create the configuration
             var configuration = builder.Build();
 
@@ -72,7 +72,7 @@ namespace PlayGround
     }
     }
     
-  
+   ```
   
   ![alt text](https://github.com/csehammad/GPT3Wrapper/blob/main/sample.png?raw=true)
 
